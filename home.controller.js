@@ -1,7 +1,7 @@
 (function() {
     "use strict";
     angular
-        .module('foodieApp')
+        .module('avinash.foodieApp', [])
         .controller('HomeController', HomeController);
 
     HomeController.$inject = ['vendorService', '$log', '$location'];
