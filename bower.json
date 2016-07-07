@@ -1,0 +1,22 @@
+{
+  "name": "home_bower",
+  "authors": [
+    "Avinash Singh <avinash4507@gmail.com>"
+  ],
+  "description": "home's bower pakag",
+  "main": "home.controller.js",
+  "keywords": [
+    "home",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
